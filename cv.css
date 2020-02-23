@@ -1,0 +1,136 @@
+.page
+{
+	width : 700px;
+	margin : auto;
+	font-size :16px;
+	font-family:'Source sans Pro', Calibri,Tahoma, sans-serif;
+	margin-bottom: 30px;
+}
+.menu
+{	background-color: black;
+	border:1px solid white;
+	padding:5px;
+	margin-right : 40px;
+	border-radius:5px;
+	color:#faebd7;
+}
+#LeMenu ul li 
+{
+	display:inline;
+}
+#LeMenu ul
+{
+	margin-top:30px;
+}
+#hautduCV
+{
+	background-color:#faebd7;
+	height:415px;
+	
+}
+#MilieuPage
+{
+
+	background-color:#faebd7;	
+	
+}
+.Lignemenu
+{
+	border-bottom:5px;
+}
+#titre
+{
+ font-family:cursive;
+ font-size:250%;
+ color: black;
+}
+.infophoto{
+	height : 260px;
+	font-family:cursive;
+	font-size:100%;
+	margin-top: 30px;
+	background-color:#faebd7;
+	margin-bottom:30px;
+	border-radius:10px;
+}
+#icone
+{
+	float:left;
+	height: 20px;
+	width:20px;
+	Margin-right:5px
+}
+
+#iconeSection
+{
+	float:none;
+	height: 50px;
+	width:50px;
+	Margin-left:10px;
+	margin-bottom:10px;
+}
+.info
+{
+	float : left;
+	padding: 25px;
+	Width : 300px;
+	
+}
+
+.photo
+{
+	float : right;
+	margin-bottom: 5px;
+	margin-top:30px;
+	Margin-left: 20px;	
+	Margin-right:100px;
+	border:  double;
+	
+}
+h3
+{
+	Margin-left : 20px;	
+	font-family:cursive;	
+}
+.strong
+{
+	font-size :26px;
+}
+.section
+{
+	Margin-left : 40px;
+	Margin-right:40px;
+	text-align : justify;
+	margin-bottom: 25px;
+	margin-top: 10px;
+	border: thick double;
+	padding : 10px;
+	background-color:#D8BFD8;
+	border-radius:20px;
+	
+}
+
+#F
+{
+	margin-top: 50px;
+}
+
+
+h2{
+	font-size: 28px;
+	color : black;
+	text-transform : uppercase;
+    font-family:fantasy;	
+}
+
+a
+{
+	font-family:cursive;
+}
+body{
+	background-color :  #faebd7;
+	border:thick double;
+	
+}
+
+
